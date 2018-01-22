@@ -2,6 +2,15 @@
 # yarn lockfile v1
 
 
+"@danielhuisman/endpoints@^0.9.3":
+  version "0.9.3"
+  resolved "https://registry.yarnpkg.com/@danielhuisman/endpoints/-/endpoints-0.9.3.tgz#2ea2d47c83c99185eaa0619b0738ae5d85a3b109"
+  dependencies:
+    bluebird "^2.9.27"
+    is-my-json-valid "^2.12.0"
+    kapow "^1.0.0"
+    lodash "^3.9.3"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -320,15 +329,6 @@ ee-first@1.1.1:
 encodeurl@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-1.0.2.tgz#ad3ff4c86ec2d029322f5a02c3a9a606c95b3f59"
-
-endpoints@^0.9.0:
-  version "0.9.2"
-  resolved "https://registry.yarnpkg.com/endpoints/-/endpoints-0.9.2.tgz#57dc8989d6cb78b51b49723d6daf64fef457f96f"
-  dependencies:
-    bluebird "^2.9.27"
-    is-my-json-valid "^2.12.0"
-    kapow "^1.0.0"
-    lodash "^3.9.3"
 
 entities@1.0:
   version "1.0.0"
