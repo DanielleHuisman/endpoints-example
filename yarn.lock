@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@danielhuisman/endpoints@^0.9.3":
-  version "0.9.3"
-  resolved "https://registry.yarnpkg.com/@danielhuisman/endpoints/-/endpoints-0.9.3.tgz#2ea2d47c83c99185eaa0619b0738ae5d85a3b109"
+"@danielhuisman/endpoints@^0.9.5":
+  version "0.9.5"
+  resolved "https://registry.yarnpkg.com/@danielhuisman/endpoints/-/endpoints-0.9.5.tgz#4c8c0607dd09bba27a4d64cbaa15bfed99107208"
   dependencies:
     bluebird "^2.9.27"
     is-my-json-valid "^2.12.0"
